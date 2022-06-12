@@ -21,6 +21,10 @@ public class CustomStack {
         return top == -1;
     }
 
+    public int size() {
+        return top + 1;
+    }
+
     public boolean push(int item) {
         if (isFull()) {
             System.out.println("Cannot push Stack is full !!");
