@@ -1,3 +1,5 @@
+package Stack_Implementation;
+
 public class Two_Stacks {
     // question from code studio -
     // https://www.codingninjas.com/codestudio/problems/two-stacks_983634?leftPanelTab=1
